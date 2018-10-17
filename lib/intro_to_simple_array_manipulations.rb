@@ -5,3 +5,11 @@ end
 def using_unahift(array, string)
   array.unshift(string)
 end 
+
+def using_unahift(array, string)
+  array.unshift(string)
+end 
+
+def using_pop(array, string)
+  array.pop(string)
+end 
